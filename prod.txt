@@ -1,4 +1,5 @@
 
+
  git config --global user.name "1249rishikar"  
  git config --global user.email "rishikar357@gmail.com"
 git clone https://github.com/1294rishikar/devops.git
@@ -9,3 +10,6 @@ cd foldername
 git add prod.txtgit add .
 git commit -m "first commit"
 git push origin main
+
+command lines
+
